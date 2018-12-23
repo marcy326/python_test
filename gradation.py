@@ -3,6 +3,8 @@
 Created on Wed Oct 24 16:25:15 2018
 
 @author: marcy
+
+グラデーション画像を生成する
 """
 
 import cv2
